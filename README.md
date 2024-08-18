@@ -1,6 +1,6 @@
-# Hi there, I'm [Dipak Ahirav]! 👋
+# Hi there, I'm Dipak Ahirav! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Dipak-Ahirav&color=blue)
 
 I'm a passionate developer with a love for building scalable and efficient applications. I enjoy sharing my knowledge and experiences through blogging and open-source contributions.
 
