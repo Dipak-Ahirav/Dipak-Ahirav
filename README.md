@@ -10,9 +10,14 @@ I'm a passionate developer with a love for building scalable and efficient appli
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🚀 My Blog Posts
 
@@ -52,7 +57,10 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - 📧 Email: [your.email@example.com](mailto:dipaksahirav@gmail.com)
 - 🐦 Twitter: [@YourTwitterHandle](https://x.com/DipakAhirav)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dipak-ahirav-606bba128/)
-
+- 📝 Medium: [Your Medium](https://medium.com/@dipaksahirav)
+- 🌐 Website: [Dipak Ahirav](https://my-portfolio-beta-orpin-29.vercel.app/)
+- 💻 GitHub: [Your GitHub](https://github.com/Dipak-Ahirav)
+- 🎥 YouTube: [Your YouTube Channel](https://www.youtube.com/@DevDivewithDipak)
 ---
 
 ⭐️ From [Dipak Ahirav](https://github.com/Dipak-Ahirav)
