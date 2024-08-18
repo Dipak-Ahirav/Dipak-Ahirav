@@ -33,8 +33,17 @@ I love writing about development and sharing my learnings with the community. Ch
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipak-Ahirav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipak-Ahirav&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dipak-Ahirav&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+## 🎥 YouTube Channel
+
+I also create videos on software development, tutorials, and project walkthroughs. Subscribe to my YouTube channel for more content!
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@DevDivewithDipak)
 
 ## 📝 Get in Touch
 
