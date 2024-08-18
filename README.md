@@ -54,13 +54,13 @@ I also create videos on software development, tutorials, and project walkthrough
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:
 
-- 📧 Email: [your.email@example.com](mailto:dipaksahirav@gmail.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://x.com/DipakAhirav)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dipak-ahirav-606bba128/)
-- 📝 Medium: [Your Medium](https://medium.com/@dipaksahirav)
+- 📧 Email: [dipaksahirav@gmail.com](mailto:dipaksahirav@gmail.com)
+- 🐦 Twitter: [@DipakAhirav](https://x.com/DipakAhirav)
+- 💼 LinkedIn: [Dipak_Ahirav](https://www.linkedin.com/in/dipak-ahirav-606bba128/)
+- 📝 Medium: [DipakAhirav](https://medium.com/@dipaksahirav)
 - 🌐 Website: [Dipak Ahirav](https://my-portfolio-beta-orpin-29.vercel.app/)
-- 💻 GitHub: [Your GitHub](https://github.com/Dipak-Ahirav)
-- 🎥 YouTube: [Your YouTube Channel](https://www.youtube.com/@DevDivewithDipak)
+- 💻 GitHub: [Dipak-Ahirav](https://github.com/Dipak-Ahirav)
+- 🎥 YouTube: [@DevDiveWithDipak](https://www.youtube.com/@DevDivewithDipak)
 ---
 
 ⭐️ From [Dipak Ahirav](https://github.com/Dipak-Ahirav)
