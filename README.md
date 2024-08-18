@@ -18,18 +18,18 @@ I'm a passionate developer with a love for building scalable and efficient appli
 
 I love writing about development and sharing my learnings with the community. Check out my latest articles on these platforms:
 
-- 🌐 [Dev.to](https://dev.to/YourProfile) - Over 37k followers! 🎉
-- ✨ [Hashnode](https://hashnode.com/@YourProfile) - My latest tech insights!
-- 📚 [Medium](https://medium.com/@YourProfile) - Long-form articles and in-depth tutorials.
+- 🌐 [Dev.to](https://dev.to/dipakahirav) - Over 37k followers! 🎉
+- ✨ [Hashnode](https://hashnode.com/@dipakahirav) - My latest tech insights!
+- 📚 [Medium](https://medium.com/@dipaksahirav) - Long-form articles and in-depth tutorials.
 
 ### Latest Article Highlights
 
 - 🔥 **FACEIO Integration: Secure User Authentication**  
-  [Read on Dev.to](https://dev.to/YourProfile/faceio-integration-secure-user-authentication)  
+  [Read on Dev.to](https://dev.to/dipakahirav/faceio-integration-secure-user-authentication)  
   ![FACEIO Article GIF](https://path/to/your/gif.gif)
 
 - 💻 **Modern API Development with Node.js, Express, and TypeScript**  
-  [Read on Hashnode](https://hashnode.com/@YourProfile/modern-api-development-with-nodejs-express-typescript)
+  [Read on Hashnode](https://hashnode.com/@dipakahirav/modern-api-development-with-nodejs-express-typescript)
 
 ## 📈 GitHub Stats
 
@@ -40,10 +40,10 @@ I love writing about development and sharing my learnings with the community. Ch
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile/)
+- 📧 Email: [your.email@example.com](mailto:dipaksahirav@gmail.com)
+- 🐦 Twitter: [@YourTwitterHandle](https://x.com/DipakAhirav)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dipak-ahirav-606bba128/)
 
 ---
 
-⭐️ From [Your Name](https://github.com/YourUsername)
+⭐️ From [Dipak Ahirav](https://github.com/Dipak-Ahirav)
