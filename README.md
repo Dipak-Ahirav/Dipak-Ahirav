@@ -61,6 +61,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - 🌐 Website: [Dipak Ahirav](https://my-portfolio-beta-orpin-29.vercel.app/)
 - 💻 GitHub: [Dipak-Ahirav](https://github.com/Dipak-Ahirav)
 - 🎥 YouTube: [@DevDiveWithDipak](https://www.youtube.com/@DevDivewithDipak)
+- 📘 Facebook: [DevDiveWithDipak](https://www.facebook.com/people/dipak_ahirav/100070722134919/)
 ---
 
 ⭐️ From [Dipak Ahirav](https://github.com/Dipak-Ahirav)
