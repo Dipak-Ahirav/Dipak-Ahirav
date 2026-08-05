@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dipak-Ahirav&color=blue)
 
-I'm a passionate developer with a love for building scalable and efficient applications. I enjoy sharing my knowledge and experiences through blogging and open-source contributions.
+I'm a passionate developer with a love for building scalable and efficient applications. I enjoy sharing my knowledge and experiences through blogging and open-source contributions...
 
 ## 🛠️ Technologies & Tools
 
